@@ -164,7 +164,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 612
     y: 0
-    width: 116.79999
+    width: 174.40002
     height: 665.2
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -188,9 +188,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 728.8
+    x: 786.4
     y: 0
-    width: 211.20001
+    width: 153.59998
     height: 665.2
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
@@ -364,7 +364,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 934.4
     y: 132
-    width: 114.79999
+    width: 172.40002
     height: 644.2
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -460,9 +460,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1051.2001
+    x: 1108.8
     y: 132
-    width: 209.20001
+    width: 151.59998
     height: 644.2
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -480,7 +480,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
