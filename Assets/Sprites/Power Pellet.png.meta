@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Sprites/Dead Ghost.png.meta
-guid: 3fa3e67c9fbd9bd4786d02eaf2d35a09
-========
-guid: 8cda3b39e06bb184481184cd0b864205
->>>>>>>> Feature-Visual:Assets/Sprites/Power Pellet.png.meta
+guid: 50ad0dc280aae0e47a4d91c162b4ea9e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -113,10 +109,10 @@ TextureImporter:
       name: Power Pellet_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 40
-        width: 26
-        height: 21
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +120,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75507359b893e9a4ebb64fccf82935fa
-      internalID: 1745550409
+      spriteID: 3d23b599c2a6c7241bb5601d9d69cfda
+      internalID: -2086365361
       vertices: []
       indices: 
       edges: []
@@ -134,10 +130,10 @@ TextureImporter:
       name: Power Pellet_1
       rect:
         serializedVersion: 2
-        x: 3
-        y: 8
-        width: 26
-        height: 21
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87279e7fba917304cae450d47931bc0d
-      internalID: 994380008
+      spriteID: 0aab8d8795f1b5a40a826f22f8abd26a
+      internalID: -1382448818
       vertices: []
       indices: 
       edges: []
@@ -162,8 +158,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Power Pellet_1: 994380008
-      Power Pellet_0: 1745550409
+      Power Pellet_1: -1382448818
+      Power Pellet_0: -2086365361
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
